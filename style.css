@@ -651,7 +651,7 @@ a {
 }
 
 .menu-section--desserts::before {
-  background: rgba(17, 11, 8, 0.58);
+  background: rgba(17, 11, 8, 0.74);
 }
 
 .feature-content {
@@ -688,7 +688,7 @@ a {
 
 .menu-section--desserts .section-heading,
 .menu-section--desserts .menu-item {
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.95);
 }
 
 .menu-item__allergens {
